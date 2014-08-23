@@ -132,7 +132,7 @@
     NSLog(@"failed -- %@",handler);
 }
 
-#pragma mark --------------视频下载完成----------------
+#pragma mark --------------视频下载完成了----------------
 -(void)videoDownloaderFinished:(VideoDownloader*)request
 {
     [[UIApplication sharedApplication] setNetworkActivityIndicatorVisible:NO];
