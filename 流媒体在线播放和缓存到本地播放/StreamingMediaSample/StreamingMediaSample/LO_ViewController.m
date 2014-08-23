@@ -126,7 +126,7 @@
     [self.downloader startDownloadVideo];
 }
 
-#pragma mark --------------视频解析失败----------------
+#pragma mark --------------视频解析失败啊----------------
 -(void)praseM3U8Failed:(M3U8Handler*)handler
 {
     NSLog(@"failed -- %@",handler);
