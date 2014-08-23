@@ -1,18 +1,18 @@
 //
-//  LSubjectViewTests.m
-//  LSubjectViewTests
+//  StreamingMediaSampleTests.m
+//  StreamingMediaSampleTests
 //
-//  Created by 王小亮 on 14/8/22.
-//  Copyright (c) 2014年 WXL. All rights reserved.
+//  Created by 石云雷 on 14-6-20.
+//  Copyright (c) 2014年 www.lanou3g.com. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface LSubjectViewTests : XCTestCase
+@interface StreamingMediaSampleTests : XCTestCase
 
 @end
 
-@implementation LSubjectViewTests
+@implementation StreamingMediaSampleTests
 
 - (void)setUp
 {
